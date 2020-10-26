@@ -93,7 +93,7 @@ Fichier index.js
 
 Si vous êtes arrivé ici, c’est que tout se passe bien pour vous. Et je vous en félicite !
 
-Pour créer les composants, react utilise un langage "facilitateur", le JSX (JavaScript XML), qui permet d'écrire du HTML avec JavaScript. Pour en apprendre plus sur le JSX rendez vous sur [ce lien](www.w3schools.com/react/react_jsx.asp)
+Pour créer les composants, react utilise un langage "facilitateur", le JSX (JavaScript XML), qui permet d'écrire du HTML avec JavaScript. Pour en apprendre plus sur le JSX rendez vous sur [ce lien](https://www.w3schools.com/react/react_jsx.asp)
 
 Il existe deux types de composants : les composants fonctions et  les composants classes.
 
