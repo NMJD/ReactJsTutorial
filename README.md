@@ -59,7 +59,7 @@ Pour utiliser React, nous aurons besoin de:
     * Tapez la commande `$ sudo apt install npm` dans le terminale.
     * Entrez ensuite la commande `npm -v` pour connaitre la version installée et ainsi s'assurer que tout s'est bien passé.
 
-NB: Pour les utilisateurs des SE autres que les distributions linux, rendez vous sur le site officiel de [nodejs](nodejs.org) pour savoir comment procéder à l'installation.
+NB: Pour les utilisateurs des SE autres que les distributions linux, rendez vous sur le site officiel de [nodejs](https://nodejs.org/en/download/) pour savoir comment procéder à l'installation.
 
 
 Grace à npm nous pouvons maintenant installer le package create-react-app qui nous permet de créer des applications react.
